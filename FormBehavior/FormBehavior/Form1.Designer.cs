@@ -167,7 +167,7 @@
             this.lblRegister.BackColor = System.Drawing.Color.Transparent;
             this.lblRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblRegister.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.lblRegister.Location = new System.Drawing.Point(211, 440);
+            this.lblRegister.Location = new System.Drawing.Point(206, 439);
             this.lblRegister.Name = "lblRegister";
             this.lblRegister.Size = new System.Drawing.Size(103, 18);
             this.lblRegister.TabIndex = 1;

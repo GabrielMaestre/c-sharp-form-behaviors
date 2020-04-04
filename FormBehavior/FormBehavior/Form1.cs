@@ -89,7 +89,8 @@ namespace FormBehavior
 
         private void lblPass_Click(object sender, EventArgs e)
         {
-
+            FormPass fp = new FormPass();
+            fp.ShowDialog();
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
