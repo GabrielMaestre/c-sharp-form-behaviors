@@ -82,6 +82,16 @@ namespace FormBehavior
             Environment.Exit(4);
         }
 
+        private void lblRegister_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPass_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
             lastPoint = new Point(e.X, e.Y);

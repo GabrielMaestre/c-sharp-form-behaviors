@@ -124,6 +124,7 @@
             this.lblPass.Size = new System.Drawing.Size(131, 18);
             this.lblPass.TabIndex = 7;
             this.lblPass.Text = "Forgot Password?";
+            this.lblPass.Click += new System.EventHandler(this.lblPass_Click);
             // 
             // label3
             // 
@@ -171,6 +172,7 @@
             this.lblRegister.Size = new System.Drawing.Size(103, 18);
             this.lblRegister.TabIndex = 1;
             this.lblRegister.Text = "Register Here.";
+            this.lblRegister.Click += new System.EventHandler(this.lblRegister_Click);
             // 
             // Form1
             // 
